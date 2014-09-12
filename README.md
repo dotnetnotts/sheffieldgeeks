@@ -15,6 +15,6 @@ The code that "runs" sheffieldgeeks.org.uk.
 
 ## The easier update process
 
-1. Send an email to `tim@timduckett.co.uk` with the details.
+1. Send an tweet to `@devolute` with the details.
 1. Err…
 1. That's it.
