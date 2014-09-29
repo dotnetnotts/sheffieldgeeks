@@ -83,6 +83,9 @@
 .events #lnug {
   border-color: #353129;
 }
+.events #crayonmonkeys {
+  border-color: #ffa500;
+}
 .events #when.date {
   font-style: italic;
 }
