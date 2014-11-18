@@ -83,6 +83,12 @@
 .events #lnug {
   border-color: #353129;
 }
+.events #dotnetnotts {
+  border-color: #1ABC9C;
+}
+.events #dotnetnotts .suffix {
+    font-size:10pt;
+}
 .events #crayonmonkeys {
   border-color: #ffa500;
 }
