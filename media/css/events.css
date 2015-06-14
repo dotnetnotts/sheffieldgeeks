@@ -48,6 +48,12 @@
 .events #sheffieldmaker {
   border-color: #ebdfcd;
 }
+.events #crayonmonkeys {
+  border-color: #ffa500;
+}
+.events #sheffieldr {
+  border-color: #666;
+}
 
 /* END OF STYLES IN USE */
 
@@ -88,9 +94,6 @@
 }
 .events #dotnetnotts .suffix {
     font-size:10pt;
-}
-.events #crayonmonkeys {
-  border-color: #ffa500;
 }
 .events #when.date {
   font-style: italic;
